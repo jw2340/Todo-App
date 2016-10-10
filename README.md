@@ -1,0 +1,1 @@
+This is a todo app I made using the tutorial at practicaljavascript.net.
